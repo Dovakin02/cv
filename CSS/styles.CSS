@@ -6,6 +6,7 @@ hr {
   border-color: grey;
   border-width: 5px;
   width: 5%;
+  background-color:none;
 }
 h1 {
   color: #66bfbf;
